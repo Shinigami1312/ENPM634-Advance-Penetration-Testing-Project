@@ -1,4 +1,4 @@
-# ENPM634 Advance Penetration Test Project
+# ENPM634 Network Penetration Test Project
 
 ## Overview
 
